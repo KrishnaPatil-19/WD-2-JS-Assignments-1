@@ -12,5 +12,6 @@ if (tprice>=1000)
 }
 else
 {
-  console.log("No Discount allowed");
+  console.log("\n No Discount allowed");
+  console.log("\n Total price without discount deducted = %d", tprice);
 }
