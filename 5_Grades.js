@@ -1,7 +1,7 @@
 /* Q.5] A school has following rules for grading : -
         a] Below 25 = F grade.
         b] 25 - 45 = E grade.
-        c] 45 - 60 = D grade.
+        c] 45 - 50 = D grade.
         d] 50 - 60 = C grade.
         e] 60 - 80 = B grade.
         f] Above 80 = A grade.
