@@ -5,7 +5,7 @@ qty = Number.parseInt(qty);
 tprice = qty*cost;
 if (tprice>=1000)
 {
-  value=tprice*0.1;
+  value=tprice*0.1; //calculates 10% of value in "tprice"
   console.log("\n Discount allowed = %d", value);
   console.log("\n Total price without discount deducted = %d", tprice);
   console.log("\n Grand Total price = %d", tprice-value);
